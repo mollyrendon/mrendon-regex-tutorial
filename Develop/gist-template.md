@@ -1,8 +1,10 @@
-# Title (replace with your title)
+# Regex Tutorial
 
-Introductory paragraph (replace this with your text)
+The purpose of this tutorial is to describe Regex, otherwise know as regular expressions.  I will be detailing the machanics of these expressions as seen in the table of contents below.  
 
 ## Summary
+
+The following is an expression matching an email tag that I will be describing:  /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
 
 Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
 
@@ -46,4 +48,9 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Molly Rendon is a UCF Coding Bootcamp student currently working on her Full-Stack Developer Certification. You can find her other work and contact her at her GitHub and email below.  
+
+GitHub:  https://github.com/mollyrendon
+
+Email:  molly.rendon@outlook.com
+
